@@ -14,4 +14,4 @@ A simple To-Do list application built using HTML, CSS, and JavaScript. This app 
 - **JavaScript**: For functionality like adding, editing, and removing tasks.
 - **Bootstrap**: For responsive design and pre-built components.
 - **Boxicons**: For icons.
-- **RemixIcons**: For additional icons
+- **RemixIcons**: For additional icons.
